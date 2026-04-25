@@ -15,6 +15,11 @@ Fő előnye a Seleniumhoz képest:
 Példa:
 https://github.com/Streptopelia-risoria/restful_booker_platform_demo
 
+Projekt létrehozása:
+mappa létrehozása és terminálba: git init
+
+https://app.codacy.com/ -n adjuk hozzá a repot, hogy elemezze a kódot, amit írunk. Figyelmeztet és kb tutorként segít, hogy ne legyen spagetti kód.
+
 Terminálba: npm init playwright@latest
 JavaScript -> tests -> GitHub Actions yes -> Install Playwright browsers? yes
 
